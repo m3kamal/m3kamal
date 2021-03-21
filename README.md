@@ -14,13 +14,6 @@
 
 - 🔭 I’m currently working on [Rust](https://rust-lang.org/)
 
-<!-- ## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
-- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
-<!-- BLOG-POST-LIST:END -->
--->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kamalupreti96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kamalupreti96" height="30" width="40" /></a>
